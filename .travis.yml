@@ -7,6 +7,7 @@ before_install:
 # - sudo apt-get install poppler-utils
 install:
  - pip3 install -U sphinx
+ - pip3 install -U sphinxcontrib.tikz
 # - pip3 install sphinxcontrib.spelling
 language: python
 python:
