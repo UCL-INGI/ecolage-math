@@ -7,5 +7,10 @@ set -e
 #  -N   Do not emi colors
 #  -T   output full traceback
 # --keep-going continue the processing after a warning
+cd math4
 sphinx-build  -nWNT --keep-going -b html . /tmp
+cd ..
+cd math6
+sphinx-build  -nWNT --keep-going -b html . /tmp
+
 #sphinx-build -b spelling . /tmp
