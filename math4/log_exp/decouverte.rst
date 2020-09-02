@@ -8,7 +8,7 @@ Approche, définitions, propriétés, graphes
 ******************************************
 
 
-.. youtube:: kDLSWM1Ku88
+.. youtube:: 3NFvOM6xZ_k
     width=800
     height=500
 
@@ -17,6 +17,6 @@ Dérivées, équations, échelle logarithmique
 ******************************************
 
 
-.. youtube:: kDLSWM1Ku88
+.. youtube:: WsSzJyJcCB0
     width=800
     height=500

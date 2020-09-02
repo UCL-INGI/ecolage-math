@@ -6,7 +6,7 @@ Approche, définitions, propriétés, graphes
 ******************************************
 
 
-.. youtube:: kDLSWM1Ku88
+.. youtube:: UhGpsUl0fX4
     width=800
     height=500
 
@@ -15,6 +15,6 @@ Dérivées, équations, échelle logarithmique
 ******************************************
 
 
-.. youtube:: kDLSWM1Ku88
+.. youtube:: e74zOPJo3WQ
     width=800
     height=500
