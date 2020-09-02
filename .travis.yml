@@ -15,3 +15,9 @@ python:
   - "3.6"
 # command to run tests
 script: bash travis.sh
+#deploy:
+#  provider: releases
+#  api_key: "GITHUB OAUTH TOKEN"
+#  file: "FILE TO UPLOAD"
+#  skip_cleanup: true
+#  draft: true
