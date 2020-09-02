@@ -8,9 +8,11 @@ set -e
 #  -T   output full traceback
 # --keep-going continue the processing after a warning
 cd math4
-sphinx-build  -nWNT --keep-going -b html . /tmp
+sphinx-build  -nNT --keep-going -b html . /tmp/math4
 cd ..
 cd math6
-sphinx-build  -nWNT --keep-going -b html . /tmp
-
+sphinx-build  -nNT --keep-going -b html . /tmp/math6
+cd ..
+cd /tmp
+zip -9rp math.zip math4 math6
 #sphinx-build -b spelling . /tmp
