@@ -100,15 +100,8 @@ Calculez l'aire déterminée par les courbes et droites
 - :math:`y=\frac{1}{2-x}`, :math:`y=\frac{1}{2+x}`, :math:`x=0`, :math:`x=1`
 - :math:`y=e^x`, :math:`y=e^{3x}`, :math:`x=1`
 
-
-Exercice n°14
--------------
-
-Faites une étude complète de la fonction :math:`F(x)=\int_{0}^{x} e^{-t^2}dt` : parité, croissance, concavité, limites aux valeurs particulières.
-
-
  
-Exercice n°15
+Exercice n°14
 -------------
 
 On pose
@@ -122,7 +115,7 @@ On pose
 Calculez :math:`A+B` et :math:`A-B`. Déduisez-en :math:`A` et :math:`B`.
 
 
-Exercices n°16
+Exercices n°15
 --------------
 
 .. danger:: À ne pas mettre si la matière à voir ne comprend pas le volume des solides de révolution
