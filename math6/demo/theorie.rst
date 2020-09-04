@@ -40,15 +40,17 @@ Ce qui peut se lire de différentes façons:
    réalisation de la proposition :math:`P` (:math:`Q` est CN à
    :math:`P`)
 
+L'implication est transitive, ce qui veut dire que si :math:`A\Rightarrow B` et que :math:`B\Rightarrow C` ,alors :math:`A \Rightarrow C` .
+
 Réciproque
 ----------
 
-La réciproque de l’implication de est l’implication
-:math:`Q\Rightarrow P`. Ce qu’on peut lire de différentes façons:
+La réciproque de l’implication :math:`P \Rightarrow Q`  est l’implication
+:math:`Q\Rightarrow P` . Ce qu’on peut lire de différentes façons:
 
 -  :math:`Q` implique :math:`P`
 
--  La proposition :math:`P`\ est vraie si la proposition :math:`Q` est
+-  La proposition :math:`P` est vraie si la proposition :math:`Q` est
    vraie (:math:`P` si :math:`Q`)
 
 -  La proposition :math:`Q` est une condition suffisante à la

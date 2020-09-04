@@ -101,14 +101,8 @@ Calculez l'aire déterminée par les courbes et droites
 - :math:`y=0`, :math:`y=e^{-x}`, :math:`x=e`
 
 
-Exercice n°14
--------------
-
-Faites une étude complète de la fonction :math:`F(x)=\int_{0}^{x} e^{-t^2}dt` : parité, croissance, concavité, limites aux valeurs particulières.
-
-
  
-Exercice n°15
+Exercice n°14
 -------------
 
 a) Démontrez que si $f$ est une fonction continue, alors 
@@ -121,7 +115,7 @@ b) Utilisez ce résultat démontré pour prouver que
 .. math:: \int_{0}^{\pi/2}\frac{\sin^n{x}}{\sin^n{x}+\cos^n{x}}dx=\frac{\pi}{4}
 
 
-Exercices n°16
+Exercices n°15
 --------------
 
 Démontrez par récurrence que 
