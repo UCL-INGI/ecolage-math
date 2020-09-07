@@ -4,19 +4,11 @@ Découverte
 
 
 
-Video 1
+Démonstrations
 ******************************************
 
+Que veulent dire les termes d'implication, d'équivalence, de réciproque, de contraposée? Qu'est qu'une démonstration directe, par l'absurde, par récurrence ?
 
-.. youtube:: kDLSWM1Ku88
-    width=800
-    height=500
-
-
-Video 2
-******************************************
-
-
-.. youtube:: kDLSWM1Ku88
+.. youtube:: 6A6R8amn7PE
     width=800
     height=500

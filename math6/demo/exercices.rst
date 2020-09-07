@@ -71,35 +71,3 @@ Exercice n°10
 
 .. inginious:: m6_demo_10
 
-Exercice n°11
--------------
-
-.. inginious:: m6_demo_11
-
-Exercice n°12
--------------
-
-.. inginious:: m6_demo_12
-
-
-
-Exercices bonus
-===============
-
-.. note:: Ces questions n'ont ni solution, ni indice. Soit vous êtes sûr de votre réponse, soit vous en référez à un autre étudiant, soit vous posez la question en séance présentielle d'exercices.
-
-
-Exercice n°13
--------------
-
-
-
-Exercice n°14
--------------
-
-
-
- 
-Exercice n°15
--------------
-

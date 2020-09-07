@@ -10,7 +10,7 @@ Fonctions logarithmiques et exponentielles
    test
    decouverte
    exercices
-
+   theorie
 
 
 
