@@ -216,7 +216,7 @@ envoyé par cette translation sur le point :math:`Z'` associé au complexe
 
 .. math:: z'=z+(a+bi)
 
-.. image:: img/c-th3.png
+.. figure:: img/c-th3.png
     :scale: 70
     :align: center
   
@@ -232,7 +232,7 @@ homothétie sur le point :math:`Z'` associé au complexe :math:`z'`
 
 .. math:: z'=sz
 
-.. image:: img/c-th4.png
+.. figure:: img/c-th4.png
      :scale: 70
      :align: center
  
@@ -249,7 +249,7 @@ quelconque :math:`Z` est envoyé par cette rotation, sur le point
 
 .. math:: z'=z(\cos \theta+\sin \theta)
 
-.. image:: img/c-th5.png
+.. figure:: img/c-th5.png
      :scale: 70
      :align: center
 
@@ -331,12 +331,12 @@ carrées doivent être de signes contraires et les racines carrées de
 
 .. math:: \pm\sqrt{\frac{a+\sqrt{a^2+b^2}}{2}}\mp\sqrt{\frac{-a+\sqrt{a^2+b^2}}{2}}
 
-Racine :math:`n` -ièmes
-----------------------
+Racine :math:`n`-ièmes
+------------------------
 
-Pour trouver les racines :math:`n` -ièmes (:math:`n` naturel) d’un nombre
+Pour trouver les racines :math:`n`-ièmes (:math:`n` naturel) d’un nombre
 complexe, il est plus simple de l’écrire sous forme trigonométrique.
-Ainsi, trouver les racines :math:`n` -ièmes du nombre complexe
+Ainsi, trouver les racines :math:`n`-ièmes du nombre complexe
 :math:`z=r\text{cis}\theta` , c’est trouver les complexes
 :math:`s\text{cis}\varphi` tels que
 
@@ -370,7 +370,7 @@ Ces racines forment également une suite géométrique de raison
 
 Au paragraphe précédent nous avons vu comment calculer les racines
 carrées à partir de la forme algébrique d’un complexe. Par ce que nous
-venons de voir pour les racines :math:`n` -ièmes, on peut aussi les
+venons de voir pour les racines :math:`n`-ièmes, on peut aussi les
 calculer à partir de leur forme trigonométrique. Les deux racines
 carrées du complexe :math:`z=r\text{cis}\theta` sont
 
