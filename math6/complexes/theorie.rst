@@ -250,7 +250,7 @@ quelconque :math:`Z` est envoyé par cette rotation, sur le point
 .. math:: z'=z(\cos \theta+\sin \theta)
 
 .. figure:: img/c-th5.png
-     :scale: 50
+     :scale: 30
      :align: center
 
      Figure 5
