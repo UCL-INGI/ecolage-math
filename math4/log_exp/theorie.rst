@@ -15,15 +15,15 @@ Soit :math:`a` un nombre :math:`\in \mathbb{R}_O^+ \backslash\{1\}` .
   chaque :math:`x` fait correspondre une image notée :math:`\exp_a x` ou
   :math:`a^x` qui se définit de la manière suivante:
 
-      -   si :math:`x` est un rationnel, c-à-d qu’il s’écrit sous la forme
-          :math:`\frac{m}{t}` avec :math:`m` et :math:`t` entiers premiers entre
-          eux alors :math:`a^x=\sqrt[t]{a^m}` .
+-   si :math:`x` est un rationnel, c-à-d qu’il s’écrit sous la forme
+    :math:`\frac{m}{t}` avec :math:`m` et :math:`t` entiers premiers entre
+    eux alors :math:`a^x=\sqrt[t]{a^m}` .
 
 On prolonge cette fonction sur :math:`\mathbb{R}` de manière continue:
 
-      -   si :math:`x` est un irrationnel; il existe une suite de rationnels
-          :math:`\{x_i\mid i \in N\}` telle que :math:`\lim_{i\rightarrow \infty}{x_i}=x` ,
-          alors :math:`a^x=\lim_{i\rightarrow \infty}{a^{x_i}}`
+-   si :math:`x` est un irrationnel; il existe une suite de rationnels
+    :math:`\{x_i\mid i \in N\}` telle que :math:`\lim_{i\rightarrow \infty}{x_i}=x` ,
+    alors :math:`a^x=\lim_{i\rightarrow \infty}{a^{x_i}}`
 
 Si un phénomène (par ex. une population) évolue de sorte que, sur des intervalles de temps égaux, il s’accroit dans la même proportion, on
 dira qu’il a une **croissance exponentielle** ; il peut s’exprimer au

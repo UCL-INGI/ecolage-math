@@ -44,6 +44,6 @@ Attention: l’exposant -1 a 2 significations; c’est le contexte qui précise 
 
 On peut démontrer ce résultat
 
-     -  algébriquement, en utilisant le fait que la composée d’une fonction et de sa réciproque est l’identité et en dérivant les deux membres de l’égalité.
+-  algébriquement, en utilisant le fait que la composée d’une fonction et de sa réciproque est l’identité et en dérivant les deux membres de l’égalité.
 
-     -  géométriquement, en utilisant le fait que, les deux graphes étant symétriques, leurs tangentes à des points correspondants le sont aussi et donc que leurs pentes sont inverses.
+-  géométriquement, en utilisant le fait que, les deux graphes étant symétriques, leurs tangentes à des points correspondants le sont aussi et donc que leurs pentes sont inverses.

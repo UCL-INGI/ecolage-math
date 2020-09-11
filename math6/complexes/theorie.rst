@@ -217,7 +217,7 @@ point quelconque :math:`Z` est envoyé par cette translation sur le point
 .. math:: z'=z+(a+bi)
 
 .. figure:: img/c-th3.png
-    :scale: 70
+    :scale: 60
     :align: center
   
     Figure 3
@@ -233,7 +233,7 @@ homothétie sur le point :math:`Z'` associé au complexe :math:`z'`
 .. math:: z'=sz
 
 .. figure:: img/c-th4.png
-     :scale: 70
+     :scale: 60
      :align: center
  
      Figure 4
@@ -250,7 +250,7 @@ quelconque :math:`Z` est envoyé par cette rotation, sur le point
 .. math:: z'=z(\cos \theta+\sin \theta)
 
 .. figure:: img/c-th5.png
-     :scale: 70
+     :scale: 50
      :align: center
 
      Figure 5

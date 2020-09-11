@@ -5,8 +5,8 @@ Théorie
 Les fonctions exponentielles et logarithmes
 ============================================
 
-1. Définition
---------------
+Définition
+-----------
 
 Soit :math:`a` un nombre :math:`\in \mathbb{R}_O^+ \backslash\{1\}` .
 
@@ -15,15 +15,15 @@ Soit :math:`a` un nombre :math:`\in \mathbb{R}_O^+ \backslash\{1\}` .
   chaque :math:`x` fait correspondre une image notée :math:`\exp_a x` ou
   :math:`a^x` qui se définit de la manière suivante:
 
-      -   si :math:`x` est un rationnel, c-à-d qu’il s’écrit sous la forme
-          :math:`\frac{m}{t}` avec :math:`m` et :math:`t` entiers premiers entre
-          eux alors :math:`a^x=\sqrt[t]{a^m}` .
+-   si :math:`x` est un rationnel, c-à-d qu’il s’écrit sous la forme
+    :math:`\frac{m}{t}` avec :math:`m` et :math:`t` entiers premiers entre
+    eux alors :math:`a^x=\sqrt[t]{a^m}` .
 
 On prolonge cette fonction sur :math:`\mathbb{R}` de manière continue:
 
-      -   si :math:`x` est un irrationnel; il existe une suite de rationnels
-          :math:`\{x_i\mid i \in N\}` telle que :math:`\lim_{i\rightarrow \infty}{x_i}=x` ,
-          alors :math:`a^x=\lim_{i\rightarrow \infty}{a^{x_i}}`
+-   si :math:`x` est un irrationnel; il existe une suite de rationnels
+    :math:`\{x_i\mid i \in N\}` telle que :math:`\lim_{i\rightarrow \infty}{x_i}=x` ,
+    alors :math:`a^x=\lim_{i\rightarrow \infty}{a^{x_i}}`
 
 Si un phénomène (par ex. une population) évolue de sorte que, sur des intervalles de temps égaux, il s’accroit dans la même proportion, on
 dira qu’il a une **croissance exponentielle** ; il peut s’exprimer au
@@ -45,8 +45,8 @@ fait correspondre un nombre :math:`y` noté :math:`\log_a(x)` tel que :math:`a^y
 Autrement dit, le logarithme en base :math:`a` d’un nombre est
 l’exposant qu’il faut mettre à :math:`a` pour obtenir une puissance égale à ce nombre.
 
-2. Propriétés du logarithme
-----------------------------
+Propriétés du logarithme
+-------------------------
 
 -  :math:`\forall x,y \in \mathbb{R}_0^+`
 
@@ -58,7 +58,7 @@ l’exposant qu’il faut mettre à :math:`a` pour obtenir une puissance égale 
 
 Ces propriétés se démontrent en utilisant les propriétés des exposants.
 
-3. Formule de changement de base
----------------------------------
+Formule de changement de base
+------------------------------
 
 - :math:`\log_a x=\frac{\log_b x}{\log_b a}`
