@@ -46,20 +46,20 @@ Exercice n°7
 Exercice n°8
 ------------
 
-.. inginious:: m6_explog_08_1a
-.. inginious:: m6_explog_08_1b
 .. inginious:: m6_explog_08_2a
 .. inginious:: m6_explog_08_2b
 .. inginious:: m6_explog_08_3a
 .. inginious:: m6_explog_08_3b
-.. inginious:: m6_explog_08_4a
-.. inginious:: m6_explog_08_4b
 .. inginious:: m6_explog_08_5a
 .. inginious:: m6_explog_08_5b
 .. inginious:: m6_explog_08_6a
 .. inginious:: m6_explog_08_6b
 .. inginious:: m6_explog_08_7a
 .. inginious:: m6_explog_08_7b
+.. inginious:: m6_explog_08_4a
+.. inginious:: m6_explog_08_4b
+.. inginious:: m6_explog_08_1a
+.. inginious:: m6_explog_08_1b
 
 
 Exercice n°9

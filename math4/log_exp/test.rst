@@ -19,8 +19,4 @@ Vous n'avez qu'une tentative par exercice, le but étant de vous auto-évaluer e
 
 .. inginious:: m4_explog_05b_test
 
-.. inginious:: m4_explog_06a_test
-
-.. inginious:: m4_explog_06b_test
-
 .. inginious:: m4_explog_07_test

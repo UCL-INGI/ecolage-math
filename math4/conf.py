@@ -22,7 +22,7 @@ import sphinx_ecolage_theme
 # -- Project information -----------------------------------------------------
 
 project = 'Ecolage : Mathématiques 4h'
-copyright = '2020, Benoit Jadin, Dany Legrand, Juliette Krug, Marine Branders'
+copyright = '2020, Benoit Jadin, Dany Legrand, Juliette Krug, Marine Branders, Manon Oreins'
 author = 'Benoit Jadin, Dany Legrand'
 
 
